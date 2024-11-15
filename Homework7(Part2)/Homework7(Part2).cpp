@@ -2,7 +2,7 @@
 #include <ctime>
 #include <cctype>
 
-using namespace std; // Test Comment
+using namespace std;
 
 const int ROWS = 13;
 const int COLUMNS = 6;
